@@ -1,17 +1,31 @@
-## 👋 Обо мне
 
-**Python-разработчик** с коммерческим опытом и нестандартным бэкграундом.
+## Привет! Я Денис 👋
 
-🔄 Пришел в разработку из другой профессии, где развил **системное мышление** и умение разбираться в сложных процессах. Для меня код — это не просто синтаксис, а инструмент решения бизнес-задач.
+Python-разработчик с коммерческим опытом и бэкграундом в клиентоориентированной сфере, что позволяет эффективно работать в команде и доносить сложные идеи
 
-💼 Коммерческий опыт:
-- Участие в разработке бэкенда для сервиса расчета стоимости (AVB Invest)
-- Создание парсера для проверки контрагентов 
-- Разработка модуля аутентификации с нуля
+**Техническая сторона:**
+- Бэкенд на Python (Django, FastAPI, DRF)
+- Базы данных, API, контейнеризация
+- Полный цикл разработки
 
+**Коммуникационная сторона:**
+- Умение объяснять сложные концепции простыми словами
+- Опыт координации между командами (проверено на хакатонах)
+- Понимание, что за каждой задачей стоят реальные пользователи
+
+*Для меня разработка — это не только написание кода, но и создание продуктов, которые действительно работают для людей.*
+
+---
+###
 🏆 Хакатон для НКО «Фонд Продвижение»:
 - За 12 дней создал бэкенд для системы управления заявками
 - Архитектура получила положительную оценку за гибкость
+  
+💼 Коммерческий опыт:
+- Участие в разработке бэкенда для сервиса расчета стоимости (AVB Invest)
+- Разработка модуля аутентификации с нуля
+- Создание парсера для проверки контрагентов 
+
 
 🎓 Окончил Яндекс.Практикум по специальности «Python-разработчик»
 
@@ -20,63 +34,42 @@
 - **SQL и оптимизации запросов** 
 - **Асинхронном программировании**
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-## 🛠 Технологии
+###
 
-<h3 align="left">Backend:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img src="https://skillicons.dev/icons?i=django" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
-    <img src="https://skillicons.dev/icons?i=fastapi" />
-  </a>
-</p>
+<h3 align="left">🛠 Технологии и инструменты</h3>
 
-<h3 align="left">Database:</h3>
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite">
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-  </a>
-</p>
+###
 
-<h3 align="left">Tools & DevOps:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="Nginx">
-    <img src="https://skillicons.dev/icons?i=nginx" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-</p>
+#### **Backend & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-## 💼 Ключевые проекты с открытыми репозиториями
+#### **Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 
-### [Бэкенд для НКО]([https://github.com/yourusername/npo-backend](https://github.com/Prodvizhenie-life/chat-bot-backend))  
-**Система управления заявками** (12 дней)  
-Разработал ядро системы с гибкой бизнес-логикой статусов.  
-*Python, Django, DRF, PostgreSQL*
+#### **DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+#### **Testing & API:**
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+#### **Other:**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-### [Foodgram](https://github.com/yourusername/foodgram)  
-**Сервис для публикации рецептов**  
-Полноценный бэкенд с CI/CD, Docker, Nginx, PostgreSQL.  
-*Python, DRF, Docker, PostgreSQL, Nginx*
----
+
 
 ## 📫 Контакты
 - **Telegram**: [@tewi_tewi](https://t.me/tewi_tewi)
@@ -88,14 +81,28 @@
 <!--
 **DenisTereshkov/DenisTereshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - **LinkedIn**: [Ваш профиль]
-Here are some ideas to get you started:
+----------------------------------------------
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+ <img width="600" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+###
+
+<h3 align="left">📈 Статистика</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DenisTereshkov&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DenisTereshkov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=ru&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DenisTereshkov&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 -->
