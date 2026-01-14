@@ -53,6 +53,9 @@ Python-разработчик с коммерческим опытом и бэк
 ![Aiogram](https://img.shields.io/badge/Aiogram-2E8B57?style=for-the-badge&logo=telegram&logoColor=white)
 ![Aioschedule](https://img.shields.io/badge/Aioschedule-1E90FF?style=for-the-badge&logo=clockify&logoColor=white)
 
+#### **Web & UI Frameworks:**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 #### **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
